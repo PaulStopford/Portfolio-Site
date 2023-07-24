@@ -1,10 +1,8 @@
 # Portfolio Website
 
-I built this portfolio site using Html, and CSS.
+I built this portfolio site using HTML and CSS.
 
-This website was built to display my Html and CSS skills.
-
-There are links to some of my other projects below.
+This website was built to display my HTML and CSS skills.
 
 # Technologies Used
 
